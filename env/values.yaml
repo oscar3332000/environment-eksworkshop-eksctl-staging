@@ -18,7 +18,7 @@ expose:
   - --v
   - 4
   config:
-    domain: eksworkshop.eksctl
+    domain: kissmygecko.com
     exposer: Ingress
     http: "true"
 jenkins:
